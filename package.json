@@ -1,0 +1,20 @@
+{
+  "name": "jutore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "basic": "node examples/basic/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephUz/jutore.git"
+  },
+  "keywords": [
+    "Scope",
+    "State"
+  ],
+  "author": "JosephUz",
+  "license": "MIT"
+}

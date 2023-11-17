@@ -8,9 +8,11 @@ To add Jutore to your project, you can follow these steps:
 
 ```shell
 npm install jutore
+```
 
 or
 
+```shell
 yarn add jutore
 ```
 
